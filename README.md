@@ -1,21 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #define BLYNK_TEMPLATE_ID "TMPL6qolzS8L6"
 #define BLYNK_TEMPLATE_NAME "SLiM"
 #define BLYNK_AUTH_TOKEN "fljS8nOZPmG0uk2Rm1Fu0oXEL0mL6iTQ"
